@@ -5,8 +5,8 @@ import io
 import requests
 
 # Replace these values with your own
-DISCORD_BOT_TOKEN = 'OTg2OTI5Mzc4NDkzNjIwMjU0.GZNCt1.yaw_XvspmAI2B96ntxXDwGp9puvRrK6Jz9vDF0'
-OPENAI_API_KEY = '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'
+DISCORD_BOT_TOKEN = ''
+OPENAI_API_KEY = ''
 
 # Set the OpenAI API key
 openai.api_key = OPENAI_API_KEY
